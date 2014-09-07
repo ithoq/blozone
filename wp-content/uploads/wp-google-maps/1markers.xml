@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<markers>
+  <marker>
+    <marker_id>2</marker_id>
+    <map_id>1</map_id>
+    <title></title>
+    <address>10 place de la R&#xE9;publique La Chapelle-la-Reine France</address>
+    <desc></desc>
+    <pic></pic>
+    <icon></icon>
+    <linkd></linkd>
+    <lat>48.3175612</lat>
+    <lng>2.5703929000000016</lng>
+    <anim></anim>
+    <category>0</category>
+    <infoopen></infoopen>
+  </marker>
+  <marker>
+    <marker_id>3</marker_id>
+    <map_id>1</map_id>
+    <title></title>
+    <address>10 place de la R&#xE9;publique 77760 La Chapelle-la-Reine</address>
+    <desc></desc>
+    <pic></pic>
+    <icon></icon>
+    <linkd></linkd>
+    <lat>48.3175612</lat>
+    <lng>2.5703929000000016</lng>
+    <anim></anim>
+    <category>0</category>
+    <infoopen></infoopen>
+  </marker>
+</markers>
